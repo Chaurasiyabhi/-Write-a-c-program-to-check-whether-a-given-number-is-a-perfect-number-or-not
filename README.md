@@ -1,0 +1,1 @@
+# -Write-a-c-program-to-check-whether-a-given-number-is-a-perfect-number-or-not
